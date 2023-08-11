@@ -19,7 +19,7 @@
 Simulating a store database, to practice SQL with mysql, the exercise was taken from a web page. The credits to the web page are below.
 
 ### Built With
-- [MySQL]([https://vuejs.org/](https://www.mysql.com/))
+![MySQL]([https://vuejs.org/](https://www.mysql.com/))
 
 ### credits to
 
