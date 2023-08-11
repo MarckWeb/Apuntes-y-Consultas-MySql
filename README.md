@@ -19,9 +19,9 @@
 Simulating a store database, to practice SQL with mysql, the exercise was taken from a web page. The credits to the web page are below.
 
 ### Built With
-![MySQL]([https://vuejs.org/](https://www.mysql.com/))
+![MySQL](https://www.mysql.com/)
 
 ### credits to
 
 Jose Juan Sanchez
-![web page](https://www.google.com/search?q=traductor&rlz=1C1CHZN_esES1003ES1003&oq=tra&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYOTIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMjk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+![web page](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#ejercicios.-realizaci%C3%B3n-de-consultas-sql)
