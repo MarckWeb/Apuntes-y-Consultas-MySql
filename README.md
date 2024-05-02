@@ -8,9 +8,10 @@ En este repositorio encontrarás mis apuntes, así como las consultas que realic
 
 ---- 
 
-<div align="center">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/512px-MySQL.svg.png" alt="MySQL Logo" width="200">
-</div>
+</p>
+
 ----
 
 MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto que se ha convertido en uno de los sistemas de gestión de bases de datos más populares y ampliamente utilizados en el mundo. Fue creado originalmente por MySQL AB en 1995 y desde entonces ha sido desarrollado y mantenido por Oracle Corporation.
