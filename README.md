@@ -8,9 +8,9 @@ En este repositorio encontrarás mis apuntes, así como las consultas que realic
 
 ---- 
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/512px-MySQL.svg.png" alt="MySQL Logo" width="200">
-</p>
+<div align="center">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="200">
+</div>
 
 ----
 
