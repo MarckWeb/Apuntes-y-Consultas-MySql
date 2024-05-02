@@ -1,18 +1,22 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">SQL-STORE-PROYECT</h1>
+<h1 align="center">Mis Apuntes y Prácticas de MySQL</h1>
 
-<!-- TABLE OF CONTENTS -->
+¡Bienvenido a mi repositorio de MySQL!
 
-## Table of Contents
+En este repositorio encontrarás mis apuntes, así como las consultas que realicé mientras cursaba y practicaba con MySQL. Además, podrás explorar la práctica de una tienda, donde busqué datos utilizando diversas consultas de MySQL para profundizar mis habilidades y comprensión del lenguaje.
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Credits](#credits-to)
+---- 
 
-<!-- OVERVIEW -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/512px-MySQL.svg.png" alt="MySQL Logo" width="200">
+</div>
+----
 
-## Overview
+MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto que se ha convertido en uno de los sistemas de gestión de bases de datos más populares y ampliamente utilizados en el mundo. Fue creado originalmente por MySQL AB en 1995 y desde entonces ha sido desarrollado y mantenido por Oracle Corporation.
+
+
+## Practica de MySQL
 
 ![screenshot](https://github.com/MarckWeb/MySQL-practice-with-data-from-store/blob/master/assets/Imagen1.png)
 
