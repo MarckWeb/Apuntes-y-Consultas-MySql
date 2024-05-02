@@ -17,16 +17,18 @@ En este repositorio encontrarás mis apuntes, así como las consultas que realic
 MySQL es un sistema de gestión de bases de datos relacional (RDBMS, por sus siglas en inglés) de código abierto que se ha convertido en uno de los sistemas de gestión de bases de datos más populares y ampliamente utilizados en el mundo. Fue creado originalmente por MySQL AB en 1995 y desde entonces ha sido desarrollado y mantenido por Oracle Corporation.
 
 
-## Practica de MySQL
+## Base de datos simulada de una tienda
+
+En esta base de datos simulada de una tienda, puedes practicar SQL con MySQL. El ejercicio fue tomado de una página web, cuyos créditos se encuentran al final.
 
 ![screenshot](https://github.com/MarckWeb/MySQL-practice-with-data-from-store/blob/master/assets/Imagen1.png)
 
-Simulating a store database, to practice SQL with mysql, the exercise was taken from a web page. The credits to the web page are below.
+Este ejercicio te proporciona una base de datos simulada de una tienda donde puedes practicar tus habilidades en SQL con MySQL. La base de datos incluye tablas como "productos", "clientes", "pedidos" y más, que representan las operaciones típicas de una tienda.
 
-### Built With
+### usa MySQL
 [MySQL](https://www.mysql.com/)
 
-### credits to
+### Creditos al autor, donde realice la práctica de mis consultas
 
 Jose Juan Sanchez
 [web page](https://josejuansanchez.org/bd/ejercicios-consultas-sql/index.html#ejercicios.-realizaci%C3%B3n-de-consultas-sql)
