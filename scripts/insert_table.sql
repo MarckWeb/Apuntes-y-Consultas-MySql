@@ -1,3 +1,4 @@
+
 --DATOS PARA LA TABLA FABRICANTE
 INSERT INTO fabricante VALUES(1, 'Asus');
 INSERT INTO fabricante VALUES(2, 'Lenovo');
